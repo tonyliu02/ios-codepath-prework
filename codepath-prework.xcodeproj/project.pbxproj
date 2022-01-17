@@ -16,6 +16,7 @@
 		5A1FD1E42787D33F0005F476 /* codepath_preworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A1FD1E32787D33F0005F476 /* codepath_preworkTests.swift */; };
 		5A1FD1EE2787D33F0005F476 /* codepath_preworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A1FD1ED2787D33F0005F476 /* codepath_preworkUITests.swift */; };
 		5A1FD1F02787D33F0005F476 /* codepath_preworkUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A1FD1EF2787D33F0005F476 /* codepath_preworkUITestsLaunchTests.swift */; };
+		5ABC1810278BA38100279103 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ABC180F278BA38100279103 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5A1FD1E92787D33F0005F476 /* codepath-preworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "codepath-preworkUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A1FD1ED2787D33F0005F476 /* codepath_preworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = codepath_preworkUITests.swift; sourceTree = "<group>"; };
 		5A1FD1EF2787D33F0005F476 /* codepath_preworkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = codepath_preworkUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5ABC180F278BA38100279103 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				5A1FD1CE2787D33E0005F476 /* SceneDelegate.swift */,
 				5A1FD1D02787D33E0005F476 /* ViewController.swift */,
 				5A1FD1D22787D33E0005F476 /* Main.storyboard */,
+				5ABC180F278BA38100279103 /* SettingsViewController.swift */,
 				5A1FD1D52787D33F0005F476 /* Assets.xcassets */,
 				5A1FD1D72787D33F0005F476 /* LaunchScreen.storyboard */,
 				5A1FD1DA2787D33F0005F476 /* Info.plist */,
@@ -261,6 +264,7 @@
 				5A1FD1D12787D33E0005F476 /* ViewController.swift in Sources */,
 				5A1FD1CD2787D33E0005F476 /* AppDelegate.swift in Sources */,
 				5A1FD1CF2787D33E0005F476 /* SceneDelegate.swift in Sources */,
+				5ABC1810278BA38100279103 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
